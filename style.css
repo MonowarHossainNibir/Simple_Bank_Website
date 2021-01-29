@@ -1,0 +1,33 @@
+body{
+    padding: 100px;
+}
+#login-area{
+    margin-top: 20px;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px gray;
+}
+#main-page{
+    display: none;
+}
+.status{
+    margin: 0 30px;
+    border-radius: 10px;
+    padding: 40px;
+    color: white;
+}
+.deposit{
+    background-color:slateblue
+}
+.withdraw{
+    background-color: lightsalmon;
+}
+.balance{
+    background-color: orange;
+}
+.second-section-status{
+    margin: 50px 10px;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px gray;
+}
